@@ -1,3 +1,3 @@
-# ATIVIDADE_AVALIATIVA_UNIDADES_1_E_2_ALANIS_LEAL_DE_DEUS
+Olá, Professor. Boa tarde!
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/alanis32/ATIVIDADE_AVALIATIVA_UNIDADES_1_E_2_ALANIS_LEAL_DE_DEUS)
+Na pasta Objetos estão os arquivos usaAlunoDAO.mjs, usaPFDAO.mjs e usaPJDAO.mjs, conforme solicitado.
